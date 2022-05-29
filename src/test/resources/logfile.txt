@@ -1,0 +1,47 @@
+{"id":"scsmbstgrb1 ","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495216}
+{"id":"scsmbstgrb2 ","state":"STARTED","timestamp":1491377495217}
+{"id":"scsmbstgrb3 ","state":"FINISHED","timestamp":1491377495222}
+{"id":"scsmbstgrb4 ","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495221}
+{"id":"scsmbstgrb5 ","state":"STARTED","timestamp":1491377495215}
+{"id":"scsmbstgrb6 ","state":"FINISHED","timestamp":149137749528}
+{"id":"scsmbstgrb7 ","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495227}
+{"id":"scsmbstgrb8 ","state":"STARTED","timestamp":1491377495228}
+{"id":"scsmbstgrb9 ","state":"FINISHED","timestamp":1491377495235}
+{"id":"scsmbstgrb10","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495233}
+{"id":"scsmbstgrb11","state":"STARTED","timestamp":1491377495233}
+{"id":"scsmbstgrb12","state":"FINISHED","timestamp":1491377495243}
+{"id":"scsmbstgrb13","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495242}
+{"id":"scsmbstgrb14","state":"STARTED","timestamp":1491377495244}
+{"id":"scsmbstgrb15","state":"FINISHED","timestamp":1491377495244}
+{"id":"scsmbstgrb16","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495247}
+{"id":"scsmbstgrb17","state":"STARTED","timestamp":1491377495248}
+{"id":"scsmbstgrb18","state":"FINISHED","timestamp":1491377495250}
+{"id":"scsmbstgrb19","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495253}
+{"id":"scsmbstgrb20","state":"STARTED","timestamp":1491377495251}
+{"id":"scsmbstgrb21","state":"FINISHED","timestamp":1491377495258}
+{"id":"scsmbstgrb22","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495259}
+{"id":"scsmbstgrb23","state":"STARTED","timestamp":1491377495262}
+{"id":"scsmbstgrb24","state":"FINISHED","timestamp":1491377495270}
+{"id":"scsmbstgrb25","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495265}
+{"id":"scsmbstgrb26","state":"STARTED","timestamp":1491377495266}
+{"id":"scsmbstgrb27","state":"FINISHED","timestamp":149137749571}
+{"id":"scsmbstgrb28","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":149137749570}
+{"id":"scsmbstgrb29","state":"STARTED","timestamp":149137749570}
+{"id":"scsmbstgrb30","state":"FINISHED","timestamp":1491377495278}
+{"id":"scsmbstgrb31","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495276}
+{"id":"scsmbstgrb32","state":"STARTED","timestamp":1491377495279}
+{"id":"scsmbstgrb33","state":"FINISHED","timestamp":1491377495277}
+{"id":"scsmbstgrb34","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495282}
+{"id":"scsmbstgrb35","state":"STARTED","timestamp":1491377495283}
+{"id":"scsmbstgrb36","state":"FINISHED","timestamp":1491377495286}
+{"id":"scsmbstgrb37","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495288}
+{"id":"scsmbstgrb38","state":"STARTED","timestamp":1491377495289}
+{"id":"scsmbstgrb39","state":"FINISHED","timestamp":1491377495295}
+{"id":"scsmbstgrb40","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495292}
+{"id":"scsmbstgrb41","state":"STARTED","timestamp":1491377495294}
+{"id":"scsmbstgrb42","state":"FINISHED","timestamp":1491377495298}
+{"id":"scsmbstgrb43","state":"FINISHED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495298}
+{"id":"scsmbstgrb44","state":"STARTED","timestamp":1491377495297}
+{"id":"scsmbstgrb45","state":"FINISHED","timestamp":1491377495304}
+{"id":"scsmbstgrb46","state":"STARTED","type":"APPLICATION_LOG","host":"12345","timestamp":1491377495305}
+{"id":"scsmbstgrb47","state":"STARTED","timestamp":1491377495304}
